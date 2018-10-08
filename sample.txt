@@ -3,4 +3,5 @@ updating sampl.txt
 
 feature branch updated file
 
-added by pramod
+added by pramod	data
+new up
