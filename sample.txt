@@ -2,3 +2,5 @@ testing git hub
 updating sampl.txt
 
 feature branch updated file
+
+added by pramod
